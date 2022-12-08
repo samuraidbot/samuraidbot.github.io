@@ -2,8 +2,8 @@
 
 body {
     font-family: 'Montserrat', Arial, Helvetica, sans-serif;
-    color: rgb(120, 120, 120);
-    text-shadow: 2px 2px 4px black;
+    color: #fff;
+    text-shadow: 4px 4px 8px black;
     background-image: url('img/bg.jpg');
 }
 
