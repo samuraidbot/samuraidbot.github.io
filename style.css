@@ -27,11 +27,6 @@ footer {
 
 footer a {
     margin: 3px;
-    transition: 0.5s;
-}
-
-footer a:hover {
-    transform: scale(1.1);
 }
 
 a {
