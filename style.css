@@ -46,6 +46,7 @@ button {
     height: 5rem;
     font-family: 'Montserrat', Arial, Helvetica, sans-serif;
     font-size: 26px;
+    border-radius: 6%;
 }
 
 button:hover {
