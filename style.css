@@ -35,3 +35,16 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+button {
+    border: none;
+    background-color: rgb(185, 0, 139);
+    color: white;
+    transition: 0.5s;
+    cursor:pointer;
+}
+
+button:hover {
+    transform: scale(1.2);
+    background-color: rgb(233, 8, 177);
+}
