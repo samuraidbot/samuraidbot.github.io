@@ -42,6 +42,9 @@ button {
     color: white;
     transition: 0.5s;
     cursor:pointer;
+    width: 3rem;
+    height: 1rem;
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
 }
 
 button:hover {
