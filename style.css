@@ -10,3 +10,7 @@ body {
 .center {
     text-align: center;
 }
+
+img {
+    border-radius: 4%;
+}
