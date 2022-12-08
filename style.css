@@ -3,6 +3,7 @@
 body {
     font-family: 'Montserrat', Arial, Helvetica, sans-serif;
     color: rgb(20, 20, 20);
+    text-shadow: rgb(20, 20, 20) 1px 0 10px;
 }
 
 .center {
