@@ -20,9 +20,18 @@ img {
 }
 
 footer {
-    font-size: 8px;
+    font-size: 12px;
 }
 
 footer a {
     margin: 3px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: underline;
 }
