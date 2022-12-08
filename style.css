@@ -16,7 +16,7 @@ body {
 
 img {
     border-radius: 6%;
-    margin: 6px;
+    margin: 4em;
     cursor: pointer;
     transition: 0.5s;
 }
