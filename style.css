@@ -49,6 +49,7 @@ button {
     font-family: 'Montserrat', Arial, Helvetica, sans-serif;
     font-size: 26px;
     border-radius: 6%;
+    text-shadow: 4px 4px 8px black;
 }
 
 button:hover {
