@@ -5,6 +5,9 @@ body {
     color: #fff;
     text-shadow: 4px 4px 8px black;
     background-image: url('img/1996.jpg');
+    position: relative;
+    padding-bottom: 250px;
+    min-height: 100vh;
 }
 
 .center {
@@ -23,6 +26,9 @@ img {
 
 footer {
     font-size: 12px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
 
 footer a {
