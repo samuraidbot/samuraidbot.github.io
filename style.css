@@ -4,6 +4,7 @@ body {
     font-family: 'Montserrat', Arial, Helvetica, sans-serif;
     color: rgb(120, 120, 120);
     text-shadow: rgb(20, 20, 20) 1px 0 10px;
+    background-image: url('img/bg.jpg');
 }
 
 .center {
