@@ -12,7 +12,8 @@ body {
 }
 
 img {
-    border-radius: 4%;
+    border-radius: 6%;
+    margin: 6px;
 }
 
 .title {
