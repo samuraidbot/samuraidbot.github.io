@@ -42,8 +42,8 @@ button {
     color: white;
     transition: 0.5s;
     cursor:pointer;
-    width: 3rem;
-    height: 1rem;
+    width: 3em;
+    height: 1em;
     font-family: 'Montserrat', Arial, Helvetica, sans-serif;
 }
 
