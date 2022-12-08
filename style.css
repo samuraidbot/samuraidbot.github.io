@@ -18,6 +18,11 @@ img {
     border-radius: 6%;
     margin: 6px;
     cursor: pointer;
+    transition: 0.5s;
+}
+
+img:hover {
+    transform: scale(1.2);
 }
 
 .title {
